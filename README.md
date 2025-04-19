@@ -2,7 +2,7 @@
 
 ## Academic project created for the purpose of passing the course "Object-oriented modeling techniques for mechanical systems"
 
-### Project description
+## Project description
 #### The project should not be overly complex or require advanced functionality. Instead, its focus should be on demonstrating programming skills in C++, with particular attention to object-oriented programming, dynamic memory allocation, polymorphism, and splitting the program into multiple files.
 #### In the program you can check the cars in the garage, you can refuel car or recharge its battery. You can add new car or change existing cars only via C++ code. The option of adding cars via the terminal was not included.
 
