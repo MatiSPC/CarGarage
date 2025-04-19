@@ -1,6 +1,6 @@
 # Car Garage project - base for the cars!
 
-## Academic project created for the purpose of passing the course object-oriented modeling techniques for mechanical systems 
+## Academic project created for the purpose of passing the course "Object-oriented modeling techniques for mechanical systems"
 
 ### Project description
 #### The project should not be overly complex or require advanced functionality. Instead, its focus should be on demonstrating programming skills in C++, with particular attention to object-oriented programming, dynamic memory allocation, polymorphism, and splitting the program into multiple files.
